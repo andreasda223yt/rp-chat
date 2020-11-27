@@ -12,4 +12,6 @@ How to add this to your server.
 
 Commands:
 
-/announce {message}
+`/staffanno {message}`
+`/eventanno {message}`
+`/serverannounce {message}`

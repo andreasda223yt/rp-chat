@@ -1,3 +1,10 @@
-RegisterCommand("announce", function(source, args)
-    TriggerServerEvent('announce', table.concat(args, " "))
+RegisterCommand("staffanno", function(source, args)
+    TriggerServerEvent('staffanno', table.concat(args, " "))
 end)
+RegisterCommand("eventanno", function(source, args)
+    TriggerServerEvent('eventanno', table.concat(args, " "))
+end)
+RegisterCommand("serverannounce", function(source, args)
+    TriggerServerEvent('serverannounce', table.concat(args, " "))
+end)
+

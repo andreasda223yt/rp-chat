@@ -15,3 +15,5 @@ Commands:
 `/staffanno {message}`
 `/eventanno {message}`
 `/serverannounce {message}`
+
+Remember this is HALF owned by me.
